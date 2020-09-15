@@ -3,5 +3,5 @@ config-version: 2 # you must be using dbt v0.17.0 for this to work
 ...
 
 models:
-  jaffle_shop: #this normally says my_new_package. It should match the value for `name:`
+  jaffle_shop: #this normally says my_new_package. It should match the value for `name:jaffle_shop`
     ...
